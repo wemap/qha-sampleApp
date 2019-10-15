@@ -28,8 +28,7 @@ class App extends PureComponent {
                     <QuelleHistoireAventures
                         gameDataSet={gameDataSet}
                         theme={theme}
-                        onGameEnd={() => {}}
-                        onGameStart={() => {}}
+                        onGameEnd={this._onClose}
                         debug
                     />
                 ) : (
