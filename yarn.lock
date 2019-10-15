@@ -1134,17 +1134,17 @@
     semver "5.5.0"
 
 "@wemap/quelle-histoire-aventures-core@^0.2.0", "@wemap/quelle-histoire-aventures-core@^0.2.5":
-  version "0.2.6"
-  resolved "https://registry.yarnpkg.com/@wemap/quelle-histoire-aventures-core/-/quelle-histoire-aventures-core-0.2.6.tgz#3966c36532bae23810a94cfceb11debcaef50e81"
-  integrity sha512-DA5Uvg3EPd1JFNIToC7qMyGc7f49wYVGW1gsG2sqWaR6R5/onH8KErCZfzs/bALLyNGEo8qUGydStsFcDBb/Eg==
+  version "0.2.7"
+  resolved "https://registry.yarnpkg.com/@wemap/quelle-histoire-aventures-core/-/quelle-histoire-aventures-core-0.2.7.tgz#7b3f730d505f33ee6b42af8b5fbbd4a22dd8aa67"
+  integrity sha512-DyrXTx6ibosyefqkV0WBqUyBRBF90sielMCByYMyZ32YtMCwuqw4QGlSPHl1IZFXPJIPKG2aQ3NxMOTo9XShzw==
   dependencies:
     "@turf/boolean-point-in-polygon" "^6.0.1"
     "@turf/circle" "^6.0.1"
     "@turf/helpers" "^6.1.4"
     "@wemap/quelle-histoire-aventures-gallery" "^0.2.3"
     "@wemap/quelle-histoire-aventures-loader" "^0.2.3"
-    "@wemap/quelle-histoire-aventures-map" "^0.2.3"
-    "@wemap/quelle-histoire-aventures-material" "^0.2.5"
+    "@wemap/quelle-histoire-aventures-map" "^0.2.4"
+    "@wemap/quelle-histoire-aventures-material" "^0.2.6"
     "@wemap/quelle-histoire-aventures-quiz" "^0.2.4"
     "@wemap/quelle-histoire-aventures-scan" "^0.2.4"
     i18n-js "^3.3.0"
@@ -1221,14 +1221,14 @@
     react-native "^0.60.5"
     react-navigation "^4.0.10"
 
-"@wemap/quelle-histoire-aventures-map@^0.2.3":
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/@wemap/quelle-histoire-aventures-map/-/quelle-histoire-aventures-map-0.2.3.tgz#7e911096458510677b62b237dbb8841e93799f9c"
-  integrity sha512-7Zf9Aw8HHXCuMB6lMJH0CwppCBahF8x3d7091CPdVsSqiUzPYpo+NuNV9eZrn2ET3haUyUT3ZhGpV0e7dFK6hA==
+"@wemap/quelle-histoire-aventures-map@^0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@wemap/quelle-histoire-aventures-map/-/quelle-histoire-aventures-map-0.2.4.tgz#d61283a44e06bbc7251e725e942f4c762252f4d8"
+  integrity sha512-rkkh5z1SaqiNkQvNQYl8Nne8roQTmxzUxySi0+V3PL1R0bzeuPUA99nnkJZzM0zJB+fts3kdCcUp0Fp/Hc3xdw==
   dependencies:
     "@turf/bbox" "^6.0.1"
     "@turf/helpers" "^6.1.4"
-    "@wemap/quelle-histoire-aventures-material" "^0.2.5"
+    "@wemap/quelle-histoire-aventures-material" "^0.2.6"
     react "^16.9.0"
     react-native "^0.60.5"
     react-navigation "^4.0.10"
@@ -1255,10 +1255,10 @@
     react-navigation "^4.0.10"
     styled-components ">= 4"
 
-"@wemap/quelle-histoire-aventures-material@^0.2.5":
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/@wemap/quelle-histoire-aventures-material/-/quelle-histoire-aventures-material-0.2.5.tgz#a5de858ec3f350abb927848715fdce2d2b16d0a5"
-  integrity sha512-rvoYG671NyUXJ/i5suvMcoosIRkdKQHXNb5x6midRbMQmk8bAn4dI8wXpz57wqhWtEDtlW2LFqfKqTMDcNr46w==
+"@wemap/quelle-histoire-aventures-material@^0.2.5", "@wemap/quelle-histoire-aventures-material@^0.2.6":
+  version "0.2.6"
+  resolved "https://registry.yarnpkg.com/@wemap/quelle-histoire-aventures-material/-/quelle-histoire-aventures-material-0.2.6.tgz#5295a1f0dd30f6cdd31320429641e2723780311c"
+  integrity sha512-MmBCtMgYuyj6y+pAg07jj6CahbCFtiGQowocmcxNQ3iJXhumwjeUxUHkQIgS1Pb76A9JvhS+0UoiFwvZHLcB4g==
   dependencies:
     prop-types "^15.7.2"
     react "^16.9.0"
